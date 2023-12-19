@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="POSDB" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="POSDBContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Categories" EntityType="POSDB.Category" />
+    <EntitySet Name="Products" EntityType="POSDB.Product" />
+    <AssociationSet Name="CategoryProduct" Association="POSDB.CategoryProduct">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="Created" Type="DateTime" Nullable="false" />
+    <Property Name="Updated" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="Products" Relationship="POSDB.CategoryProduct" FromRole="Category" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="CostPrice" Type="Decimal" Nullable="false" />
+    <Property Name="SellingPrice" Type="Decimal" Nullable="false" />
+    <Property Name="Unit" Type="String" Nullable="false" />
+    <Property Name="Created" Type="DateTime" Nullable="false" />
+    <Property Name="Updated" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="Category" Relationship="POSDB.CategoryProduct" FromRole="Product" ToRole="Category" />
+  </EntityType>
+  <Association Name="CategoryProduct">
+    <End Type="POSDB.Category" Role="Category" Multiplicity="1" />
+    <End Type="POSDB.Product" Role="Product" Multiplicity="*" />
+  </Association>
+</Schema>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4613b94e153a41f6b9e1fe8f0fdf31b8" Name="Diagram1">
+        <EntityTypeShape EntityType="POSModel.Category" Width="1.5" PointX="3.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="POSModel.Customer" Width="1.5" PointX="3.75" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="POSModel.Employee" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="POSModel.Product" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="POSModel.PurchaseOrder" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="POSModel.Sale" Width="1.5" PointX="6" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="POSModel.Supplier" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="POSModel.PurchaseOrderDetail" Width="1.5" PointX="8.25" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="POSModel.SaleDetail" Width="1.5" PointX="11.25" PointY="5.125" IsExpanded="true" />
+        <AssociationConnector Association="POSModel.FK_Product_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="POSModel.FK_Sale_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="POSModel.FK_PurchaseOrder_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="POSModel.FK_Sale_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="POSModel.FK_PurchaseOrderDetail_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="POSModel.FK_SaleDetail_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="POSModel.FK_PurchaseOrder_Supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="POSModel.FK_PurchaseOrderDetail_PurchaseOrder" ManuallyRouted="false" />
+        <AssociationConnector Association="POSModel.FK_SaleDetail_Sale" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

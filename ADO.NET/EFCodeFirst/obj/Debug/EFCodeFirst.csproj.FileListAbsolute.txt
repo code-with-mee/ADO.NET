@@ -1,0 +1,16 @@
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\EFCodeFirst\bin\Debug\EFCodeFirst.exe.config
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\EFCodeFirst\bin\Debug\EFCodeFirst.exe
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\EFCodeFirst\bin\Debug\EFCodeFirst.pdb
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\EFCodeFirst\bin\Debug\EntityFramework.dll
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\EFCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\EFCodeFirst\bin\Debug\EntityFramework.xml
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\EFCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\EFCodeFirst\obj\Debug\EFCodeFirst.csproj.AssemblyReference.cache
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\EFCodeFirst\obj\Debug\EFCodeFirst.csproj.CoreCompileInputs.cache
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\EFCodeFirst\obj\Debug\EFCodeFirst.csproj.CopyComplete
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\EFCodeFirst\obj\Debug\EFCodeFirst.exe
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\EFCodeFirst\obj\Debug\EFCodeFirst.pdb
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\EFCodeFirst\obj\Debug\EFCodeFirst.Migrations.AddCategoryModel.resources
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\EFCodeFirst\obj\Debug\EFCodeFirst.csproj.GenerateResource.cache
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\EFCodeFirst\obj\Debug\EFCodeFirst.Migrations.AddModelCustomer.resources
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\EFCodeFirst\obj\Debug\EFCodeFirst.Migrations.AddModelProduct.resources
