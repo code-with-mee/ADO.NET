@@ -1,0 +1,10 @@
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\DapperMap\bin\Debug\DapperMap.exe.config
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\DapperMap\bin\Debug\DapperMap.exe
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\DapperMap\bin\Debug\DapperMap.pdb
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\DapperMap\bin\Debug\Dapper.dll
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\DapperMap\bin\Debug\Dapper.xml
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\DapperMap\obj\Debug\DapperMap.csproj.AssemblyReference.cache
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\DapperMap\obj\Debug\DapperMap.csproj.CoreCompileInputs.cache
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\DapperMap\obj\Debug\DapperMap.csproj.CopyComplete
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\DapperMap\obj\Debug\DapperMap.exe
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\DapperMap\obj\Debug\DapperMap.pdb

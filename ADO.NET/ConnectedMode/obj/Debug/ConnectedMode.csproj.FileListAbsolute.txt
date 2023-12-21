@@ -6,3 +6,10 @@ D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\ConnectedMode\obj\Debug\ConnectedMod
 D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\ConnectedMode\obj\Debug\ConnectedMode.csproj.CoreCompileInputs.cache
 D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\ConnectedMode\obj\Debug\ConnectedMode.exe
 D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\ADO.NET\ConnectedMode\obj\Debug\ConnectedMode.pdb
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\ConnectedMode\bin\Debug\ConnectedMode.exe.config
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\ConnectedMode\bin\Debug\ConnectedMode.exe
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\ConnectedMode\bin\Debug\ConnectedMode.pdb
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\ConnectedMode\obj\Debug\ConnectedMode.csproj.AssemblyReference.cache
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\ConnectedMode\obj\Debug\ConnectedMode.csproj.CoreCompileInputs.cache
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\ConnectedMode\obj\Debug\ConnectedMode.exe
+D:\COMPANY\CODE-WITH-ME\Github\ADO.NET\ADO.NET\ConnectedMode\obj\Debug\ConnectedMode.pdb
